@@ -1,0 +1,16 @@
+{
+  "name": "nriot",
+  "version": "0.1.0",
+  "description": "By-NriotHrreion",
+  "main": "nriot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NriotHrreion",
+  "license": "ISC",
+  "bin": {
+    "nriot": "nriot.js"
+  }
+}
