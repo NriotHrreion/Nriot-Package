@@ -14,7 +14,6 @@ const ora = require("ora");
 const express = require("express");
 const minimist = require("minimist")(process.argv.slice(2));
 
-const tool = require("./lib/tool");
 const city = require("./lib/city");
 const http = require("http");
 
