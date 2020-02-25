@@ -27,4 +27,4 @@ nriot query weather 上海
 
 ## License
 
-**ISC**
+**Apache 2.0**
